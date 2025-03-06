@@ -48,16 +48,6 @@ KNN outperformed Decision Tree in water quality classification.
 pH, hardness, and conductivity had strong correlations with potability.
 Missing values had to be carefully handled to avoid biased predictions.
 
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/Veniverse/water-quality-prediction.git
-cd water-quality-prediction
-Install dependencies:
-pip install -r requirements.txt
-Run the Jupyter Notebook or Python script:
-jupyter notebook
-Execute the code step by step to preprocess, analyze, and train the models.
-
 🤝 Contributing
 Feel free to fork this repository, improve the model, and submit a pull request!
 
